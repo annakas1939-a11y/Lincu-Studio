@@ -1,6 +1,6 @@
 name: Deploy Lincu Studio
 
-on:
+"on":
   push:
     branches:
       - main
